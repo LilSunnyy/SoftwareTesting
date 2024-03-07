@@ -1,7 +1,8 @@
 #include <iostream>
 
 int main()
-{
+{   
+    cout << "zzzz";
     cout << "Kiem thu phan mem";
 <<<<<<< HEAD
 =======
